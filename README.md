@@ -1,2 +1,2 @@
 # my_pandas_notes
-Pandas lessons and basic exercises.
+Pandas lessons and basic exercises
